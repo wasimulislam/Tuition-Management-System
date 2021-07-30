@@ -4,48 +4,39 @@
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8">
-
-
-    <title>Project page!!!</title>
+    <title>Project</title>
 
 <body>
+ <div class="menu">
         <?php include 'navBar.php';?>
-
+</div>
 </body>
 </head>
 
-<center>
+
 <body>
-    <fieldset style="width: 1300px; ">
 
-        <h1 style="text-align: center;">Welcome to our home page!</h1>
-        <div class="content">
+    
+
+<div class="col-5 col-s-5">
+    <br><br><br>
+        <h1 style="text-align: center;">Welcome to The Tuition Center</h1>
+       </div>
+        <div class="col-7 col-s-7">
+                 <div class="aside">
             <p>
-            <h3>Tuition.com is an online platform where parents, students and home tutors can easily connect with
-                each other. If you have a passion for teaching, we can help you find your next big tuition job that fits
-                your skills, favorable location, class and subjects..</h3>
+            <font size="4" , ><p align="left"><b>Welcome to our Tuition/tutor Care. We offer best service in Dhaka city, take best teachers and provide best teacher for students. We are so much concerned about our students and there will be no scope of complaining. The experienced teacher register their self. We verified all the documents and then contact with guardian then provide guardians number. We strickly follow our rules.</b>  </p> </font>
             </p>
             <p>
-            <h3>Tuition.com is a platform where parents, students and home tutors can easily connect with each other.
-                We provide qualified private home tutors to help your child with studies and helping them perform better
-                in exams. We are a group of 80,000+ home tutors and 30,000+ satisfied parents/students in Dhaka
-                ,Chattagram,Rajshahi,Sylhet,khulna,Barishal,Rangpur,Mymensingh cities for different academic and
-                professional subjects.</h3>
+            <font size="2"><p align="right"> Register to <b>"The Tuition Center"</b> for the best tuition service</p>
             </p>
-       
+        </div></div>
 
-    </fieldset><br><br><br>
-    </center>
-
-    <!-- <div class="footer">
-  <p>Resize the browser window to see how the content respond to the resizing.</p>
-</div><br><br><br> -->
+    <br><br><br>
 
     <div class="Ffooter">
-         <?php include 'Footer.php';
-?>
-    
-</div> 
+        <?php include 'Footer.php';
+?></div>
 
 
 </body>
