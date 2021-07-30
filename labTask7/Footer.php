@@ -20,7 +20,7 @@
 </head>
 
 <div class="Ffooter">
-  <p>Zareen Zia &copy; 2021</p>
+  <p>Wasim &copy; 2021</p>
 </div>
 
 
